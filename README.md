@@ -1,8 +1,10 @@
 # 📊 Tableau Sales KPI Dashboard
 
 This project is an interactive Tableau dashboard that tracks and compares key sales performance metrics. It includes calculated fields for analyzing profit/loss and year-over-year KPI comparisons.
+**link to Dashboard public:**
+https://public.tableau.com/app/profile/mubashir.hussain6910/viz/SalesDashboard_17474890315900/SalesDasboard
 
-🚀 Features
+🚀 **Features**
 
 - **Key Performance Indicators (KPIs)**: Total Sales, Profit, Quantity, and Profit Margin
 - **Year-over-Year Comparison**: Visual comparison between current and previous year metrics
